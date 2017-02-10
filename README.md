@@ -1,6 +1,6 @@
 # _Haven_
 
-#### By *Marty Kovach*, *Max Cady*, *Suzi Rubino*, *Jesse* McKay 02/2/2017
+#### By *Marty Kovach*, *Max Cady*, *Suzi Rubino* 02/2/2017
 
 
 ## Description
@@ -56,6 +56,10 @@ Along the way, you will encounter landmarks that allow you to **increase one of 
 * In the terminal run $ npm install
 * In The terminal run ng serve
 * Go to localhost:4200, and check out the app!
+
+## Known Bugs / Wanted Improvements
+* Clicking too quickly may cause the player to accidentally click an unintended stat when reaching a monument. This will be fixed in a later release by disabling the update stat buttons for a few seconds before the user can click them.
+* Page layout can be made more responsive.
 
 ## Technologies Used
 
