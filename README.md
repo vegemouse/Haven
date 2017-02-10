@@ -52,7 +52,7 @@ Along the way, you will encounter landmarks that allow you to **increase one of 
 
 ## Setup/Installation Requirements
 
-* Clone this repo: https://github.com/tyedye105/ngHaven
+* Clone this repo: https://github.com/vegemouse/Haven
 * In the terminal run $ npm install
 * In The terminal run ng serve
 * Go to localhost:4200, and check out the app!
