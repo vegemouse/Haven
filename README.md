@@ -9,6 +9,8 @@ Haven is a resource management and survival game in the same vein as The Oregon 
 
 ##The Game
 
+Haven is a single page app built with Angular 2. The player is stored as an object and it's properties are updated using the player service. The player object includes the below stats, as well as game states such as checking how far you've progressed.  Components across the page affect your properties by calling the player service to update the player object appropriately.
+
 ###Player Stats
 
 Your **Hit Points** referred to as **HP** is the amount of damage your are able to take.   
@@ -57,10 +59,10 @@ Along the way, you will encounter landmarks that allow you to **increase one of 
 
 ## Technologies Used
 
-_hmtl, css, JavaScript, node, Angular2, Angular-CLI
+HTML, Sass/Scss, JavaScript, Node.JS, Angular2, Angular-CLI
 
 ### License
 
 *MIT License*
 
-Copyright (c) 2017 **_Marty Kovach_**
+Copyright (c) 2017
